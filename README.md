@@ -2,7 +2,7 @@
 
 # Bank Tech Test
 
-Author: Sergio Enrech Trillo
+Author: Sergio Enrech Trillo -- 
 
 ## Usage
 Clone the repo from GitHub, then run bundle on the root directory.
